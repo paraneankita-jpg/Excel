@@ -28,7 +28,8 @@ dashboard supports smarter marketing strategies, better stock management, and lo
 -Helps the business take data-driven decisions in pricing, stock planning, customer segment targeting, and product strategy.
 
 
-
+Dashboard link-(https://github.com/paraneankita-jpg/Excel/blob/main/Coffee_sales_dashboard.xlsx)
+Screenshort link-(
 
 
 

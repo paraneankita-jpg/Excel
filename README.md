@@ -27,9 +27,9 @@ dashboard supports smarter marketing strategies, better stock management, and lo
 -Interactive slicers allow users to filter the entire dashboard instantly, making analysis faster and more flexible.
 -Helps the business take data-driven decisions in pricing, stock planning, customer segment targeting, and product strategy.
 
-
-Dashboard link-(https://github.com/paraneankita-jpg/Excel/blob/main/Coffee_sales_dashboard.xlsx)
-Screenshort link-(https://github.com/paraneankita-jpg/Excel/blob/main/Excel_Dashboard_SS.png)
+ Dashboard link-(https://github.com/paraneankita-jpg/Excel/blob/main/Coffee_sales_dashboard.xlsx)
+ 
+ Screenshort link-(https://github.com/paraneankita-jpg/Excel/blob/main/Excel_Dashboard_SS.png)
 
 
 

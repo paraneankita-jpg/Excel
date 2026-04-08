@@ -29,7 +29,7 @@ dashboard supports smarter marketing strategies, better stock management, and lo
 
 
 Dashboard link-(https://github.com/paraneankita-jpg/Excel/blob/main/Coffee_sales_dashboard.xlsx)
-Screenshort link-(
+Screenshort link-(https://github.com/paraneankita-jpg/Excel/blob/main/Excel_Dashboard_SS.png)
 
 
 
